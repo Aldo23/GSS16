@@ -1,25 +1,38 @@
-# reciproCITY
+# GLOBAL SUMMER SCHOOL 2016 - HYPERCITIES 
 
-### agent-based design at the urban scale
+### MODULE 01: Urban Strategies and Technology
 
 ##### _where_ | IaaC, Barcelona
-##### _when_ | April 15th-17th, 2016
-##### _tutors_ | Aldo Sollazzo, Alessio Erioli, Eugenio Bettucchi
+##### _when_ | July 4th-17th, 2016
+##### _tutors_ | Aldo Sollazzo, Efilena Baseta
 
 ## . brief
 
-While urban structures act like ecologies, developing interdependent relations across diverse scales, all too often the design tools applied at the urban scale (ie planning) limit themselves to a series of top-down decisions, with a single decisional direction spanning concentric scales.
-The aim of the workshop is to explore a shift in the design paradigm, from the planning of urban criteria and parameters, to the design of behaviors able to operate in information rich environments, finally allowing to build urban structures from the bottom up.
-Starting from pervasive data maps, the operational substrate, participants will design basic behaviors for a multi-agent based system able to grow building coherent compounds, which are not only responsive geometries, but are constantly assessed by an internal feedback system.
-The general aim is to design an ecology of mutual negotiation strategies between agents and the environment, thus re-thinking the hierarchies at work on the urban scale. In this sense scale itself is not just understood as extensive metric size, but rather the detection of certain system behaviors.
-Using detail as the form of procedural information [1], the workshop outcome will span several scales, the definition of the system detail being decisive and propagative in its influence on the system’s growth, shape and performance.
+Our cities are space-time systems, constantly exchanging information among themselves and each other, mutating and fluctuating in an evolutionary manner. The traditional City lost its clear connection to a single static space location, underlining the emergence of a new elastic territoriality, a new informational order, in which traditional infrastructure networks coexist, and expand, into immaterial connections. A combined combinatorial, evolutionary set of Hyper-ecologies, referring to multiple physical and virtual cities.
+Through data exchange and interaction, GSS16 - BCN will explore the connection between multi-territorial cities, collecting and visualizing data into projections, interpretations, actions translated through robotic process of fabrication. This process of materialization will not only be used as an information exchanging system but as a decision making tool for the city, citizens and its environment.
+The students will be engaged in an heterogeneous learning process exploring multiple urban strategies, shaping the invisible correlation between space and information. Data collection, Material interpretation, robotic aerial fabrication will be interrelated into a design process interacting with the networked system of the hyper-city.
 
 ---
 
 ## . agenda
 
 ### day 01
-##### _afternoon_
+
++ introduction to Rhino
++ introduction to Grasshopper
++ environmental data implementation
++ flocking and stigmergy 1/2
++ flocking and stigmergy 2/2
+
+### day 02
+
++ generation process
++ generative urban morphologies
++ generative urban patterns
++ generative urban apparatus 
+
+
+### day 03
 
 + introduction to agency (lecture)
 + first approach to behavior-based protocols in Grasshopper
@@ -27,30 +40,7 @@ Using detail as the form of procedural information [1], the workshop outcome wil
 + flocking and stigmergy 1/2
 + flocking and stigmergy 2/2
 
-### day 02
 
-##### _morning_
-
-+ generation process
-+ generative urban morphologies
-+ generative urban patterns
-+ generative urban apparatus 
-
-##### _afternoon_
-
-+ tutorized work + personal development
-
-### day 03
-
-##### _morning_
-
-+ tutorized work + personal development
-
-##### _afternoon_
-
-+ tutorized work + personal development
-+ presentation 
-+ final party 
 
 ---
 
@@ -69,6 +59,8 @@ All participants should be equipped with their own laptop and, besides the lates
 + [Mesh Tools](http://www.grasshopper3d.com/forum/topics/mesh-pipe)
 + [Sandbox Topology](http://www.food4rhino.com/project/sandboxtopo)
 + [Shortest Walk](http://www.food4rhino.com/project/shortestwalkgh)
++ [gHowl](http://www.grasshopper3d.com/group/ghowl)
++ [Elk](http://www.food4rhino.com/project/elk?etx)
 
 (suggestions: Tree8, LunchBox - I'll also share a bunch of user objects I have)
 
@@ -78,12 +70,11 @@ All participants should be equipped with their own laptop and, besides the lates
 
 ### code
 
-The workshop code is organized in topic-based folders. The current code (and the info in this file) will be updated and integrated as the workshop unfolds.
+The workshop code is organized in topic-based folders. The current code (and the info in this file) will be updated and integrated as the course unfolds.
 
-##### WIP
+##### CODES
 WIP folder - tentative code and stuff goes here
 
 
-### references
-
+### REFERENCES
 Some bits and hints of reading for both a theoretical and practical contextualization of the computational strategies developed.
