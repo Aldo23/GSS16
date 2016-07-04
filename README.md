@@ -4,7 +4,7 @@
 
 ##### _where_ | IaaC, Barcelona
 ##### _when_ | July 4th-17th, 2016
-##### _tutors_ | Aldo Sollazzo, Efilena Baseta
+##### _instructors_ | Aldo Sollazzo, Efilena Baseta
 
 ## . brief
 
@@ -68,12 +68,12 @@ All participants should be equipped with their own laptop and, besides the lates
 
 ## . workshop material
 
-### code
+### 00_DOC
 
+All documentation, presentations, calendars and bibliography goes here.
+
+### 01_CODES
 The workshop code is organized in topic-based folders. The current code (and the info in this file) will be updated and integrated as the course unfolds.
-
-##### CODES
-WIP folder - tentative code and stuff goes here
 
 
 ### REFERENCES
