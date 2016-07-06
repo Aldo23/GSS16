@@ -1,0 +1,46 @@
+GRASSHOPPER PLUGIN:
+
+NERO library
+http://www.food4rhino.com/project/noumena?ufh
+NB: follow the instruction and if you have windows 10 these are the paths:
+  	C:\GDAL\release-1800-x64-gdal-1-11-1-mapserver-6-4-1\bin
+	C:\GDAL\release-1800-x64-gdal-1-11-1-mapserver-6-4-1\bin\gdal\csharp
+
+
+g-howl
+http://www.food4rhino.com/project/ghowl?ufh
+
+
+weaverbird
+http://www.giuliopiacentino.com/weaverbird
+
+
+kangaroo
+http://www.food4rhino.com/project/kangaroo?ufh
+NB: Kangaroo Physics 0.096
+
+
+conduit
+https://provingground.io/tools/conduit-for-grasshopper/
+https://bitbucket.org/archinate/conduit
+
+
+volvox 
+http://www.food4rhino.com/project/volvox?ufh
+
+voxel component
+http://www.grasshopper3d.com/group/milkbox/forum/topics/mesh-pipe-and-sweep-mesh
+
+
+CREATE A FREE TRIAL ACCOUNT FOR DRONE DEPLOY
+https://www.dronedeploy.com/
+
+
+SOFTWARE:
+
+agisoft photoscan (demo)
+http://www.agisoft.com/
+
+google earth
+https://www.google.com/earth/
+
